@@ -1,4 +1,4 @@
-# Banterbird Starter 🐦
+# Jacob's Banterbird Starter 🐦
 
 Welcome to **Banterbird**, a mini social media web app built with Flask and vanilla JavaScript.
 
